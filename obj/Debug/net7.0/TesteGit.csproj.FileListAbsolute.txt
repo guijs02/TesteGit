@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\TesteGit.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\TesteGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\TesteGit.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\TesteGit.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\TesteGit\bin\Debug\net7.0\TesteGit.exe
+C:\Users\Guilherme\Desktop\TesteGit\bin\Debug\net7.0\TesteGit.deps.json
+C:\Users\Guilherme\Desktop\TesteGit\bin\Debug\net7.0\TesteGit.runtimeconfig.json
+C:\Users\Guilherme\Desktop\TesteGit\bin\Debug\net7.0\TesteGit.dll
+C:\Users\Guilherme\Desktop\TesteGit\bin\Debug\net7.0\TesteGit.pdb
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\TesteGit.dll
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\refint\TesteGit.dll
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\TesteGit.pdb
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\TesteGit.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\TesteGit\obj\Debug\net7.0\ref\TesteGit.dll
